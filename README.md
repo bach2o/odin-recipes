@@ -1,0 +1,1 @@
+This project aims to set up a simple website for viewing recipes
